@@ -8,7 +8,7 @@ Welcome to my portfolio! I’m **Ankit**, a passionate **front-end developer** w
 
 - **Name:** Ankit  
 - **Education:** B.Tech in Computer Science, ITM College Meerut (2023)  
-- **Specialization:** Front-end Development  
+- **Specialization:** Front-end Development.  
 - **Hobbies:** Cricket 🏏, Football ⚽, Chess ♟️, Gaming 🎮, Music 🎧, Blogging ✍️  
 
 ---
