@@ -1,6 +1,6 @@
 # 🚀 Ankit's Portfolio
 
-Welcome to my portfolio! I’m **Ankit**, a passionate **front-end developer** with a B.Tech in Computer Science from ITM College Meerut (2023). I specialize in creating seamless, user-friendly web experiences. 
+Welcome to my portfolio! I’m **Ankit**, a passionate **front-end developer** with a B.Tech in Computer Science from ITM College Meerut (2023). I specialize in creating seamless, user-friendly web experiences.
 
 ---
 
